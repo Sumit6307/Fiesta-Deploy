@@ -14,7 +14,7 @@ export default function AboutPage() {
 
                 <div className="mt-10 text-lg">
                     <p className="leading-relaxed hover:text-blue-800 transition-colors duration-300">
-                        Weddings are more than events; they are milestones, celebrations of love, and the beginning of a new chapter. Yet, planning such a significant day often feels overwhelming—from finding the right venues and vendors to coordinating the smallest details. That’s where we come in.
+                        Weddings are more than events; they are milestones , celebrations of love, and the beginning of a new chapter. Yet, planning such a significant day often feels overwhelming—from finding the right venues and vendors to coordinating the smallest details. That’s where we come in.
                     </p>
 
                     <p className="mt-4 leading-relaxed hover:text-blue-800 transition-colors duration-300">
