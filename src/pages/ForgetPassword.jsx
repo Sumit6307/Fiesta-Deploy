@@ -8,7 +8,7 @@ export default function ForgetPassword() {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const response = await axios.post('http://localhost:5000/api/users/forgot-password', { email });
+            const response = await axios.post('https://fiesta-backend-zo5i.onrender.com/api/users/forgot-password', { email });
             console.log('Password reset email sent:', response.data);
             alert("Reset Password Link Sent to the User Email");
         } catch (error) {

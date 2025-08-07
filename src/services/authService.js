@@ -1,7 +1,7 @@
 // src/services/authService.js
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api/auth';
+const API_URL = 'https://fiesta-backend-zo5i.onrender.com/api/auth';
 
 export const signup = async (userData) => {
     try {
