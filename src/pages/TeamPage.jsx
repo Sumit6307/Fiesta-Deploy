@@ -1,5 +1,5 @@
 import Footer from "../components/Footer";
-import NavBar from "../components/Navbar";
+import NavBar from '../components/NavBar';
 import TeamSection from "../components/TeamSection";
 import { motion } from "framer-motion"; // For animation
 
